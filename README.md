@@ -18,7 +18,7 @@ This project allows you to send push notifications with discord.
 ![Image0](https://support.discord.com/hc/article_attachments/360007455831/2_.jpg)
 
 ## Usage
-Notice: My project dosen't support HTML `<script>` tag **yet**. (I will update it later) It only supports Node.js
+Notice: My project dosen't support HTML `<script>` tag **yet**. [Look up](#future-updates) It only supports Node.js
 
 1. Add `const DisNotify = require("disnotify");` to the first line.
 2. To construct this class, follow this code.
@@ -46,9 +46,11 @@ notf.send().catch(console.error);
 This returns:
 ![Image1](https://i.imgur.com/kG3HXbu.jpg)
 
+## Future Updates
+- **Supports for web!** You can make notify you on sign up, etc.
+- More options
+- Please tell me what to add!
 
-
-
-
+(Discord name here)
 
 Thank you.
