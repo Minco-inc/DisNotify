@@ -1,0 +1,14 @@
+{
+  "name": "disnotify",
+  "version": "1.0.0",
+  "description": "You can send discord test notifications with this module!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test specified\" && exit 1"
+  },
+  "author": "Minco",
+  "license": "MIT",
+  "dependencies": {
+    "hookcord": "^2.0.2"
+  }
+}
