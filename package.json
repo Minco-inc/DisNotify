@@ -1,11 +1,12 @@
 {
   "name": "disnotify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "You can send discord test notifications with this module!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: No test specified\" && exit 1"
   },
+  "keywords": ["discord", "mobile", "notification"],
   "author": "Minco",
   "license": "MIT",
   "dependencies": {

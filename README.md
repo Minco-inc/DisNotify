@@ -51,6 +51,6 @@ This returns:
 - More options
 - Please tell me what to add!
 
-(Discord name here)
+Discord `!                              !#0123`
 
 Thank you.
