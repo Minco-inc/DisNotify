@@ -51,6 +51,6 @@ This returns:
 - More options
 - Please tell me what to add!
 
-Discord `!                              !#0123`
+Discord `! [space x30]  !#0123`
 
 Thank you.
