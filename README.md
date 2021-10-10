@@ -45,6 +45,13 @@ notf.send().catch(console.error);
 ```
 This returns:
 ![Image1](https://i.imgur.com/kG3HXbu.jpg)
+### Saving webhook URL
+It's annoying to enter the webhook URL every time, right?
+And then, simply run this console command once in the project folder!
+```bash
+npm run seturl <Webhook URL>
+```
+Then, you can remove `url` option.
 
 ## Future Updates
 - **Supports for web!** You can make notify you on sign up, etc.
