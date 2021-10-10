@@ -6,15 +6,12 @@ class DisNotify {
 		this.Hook = new HookCord.Hook();
 
 		if (config.id !== undefined && config.token !== undefined) {
-			console.log(1);
 			this.Hook.login(config.id, config.token);
 		} else if (config.url !== undefined) {
-			console.log(2);
 			// let pUrl = new URL(config.url);
 			// let idtoken = pUrl.pathname.replace("/api/webhooks/", "").split("/");
 			this.Hook.setLink(config.url);
 		} else {
-			console.log(3);
 			this.Hook.setLink(new Util().readDefaultUrl());
 		}
 
