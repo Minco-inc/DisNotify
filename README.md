@@ -1,5 +1,6 @@
 # DisNotify
-This project allows you to send push notifications with discord. **For web version, visit [here](https://github.com/MincoMK/DisNotify-Web).**
+**For web version, visit [here](https://github.com/MincoMK/DisNotify-Web).**
+This project allows you to send push notifications with discord.
 
 ## Requirements
 - Discord account
